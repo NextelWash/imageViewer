@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Flickr ImageViewer</string>
+
+    <!-- Search screen -->
+    <string name="search_header">It\'s all about images....</string>
+    <string name="search_tag_hind">Add your search criteria here</string>
+    <string name="search_btn_text">Lets search!</string>
+
+    <!-- Search results screen -->
+    <string name="search_results_screen_name">Gallery</string>
+    <string name="status_loading">Loading....</string>
+    <string name="status_search_failed">Oooops, search criteria is wrong =(</string>
+    <string name="status_search_no_photos">No photos for your search =(</string>
+
+    <!-- PhotoView -->
+    <string name="photo_clicked_text">Photo %d clicked</string>
+
+    <!-- http://farm{farm}.static.flickr.com/{server}/{id}_{secret}.jpg -->
+    <string name="photo_url">http://farm%d.static.flickr.com/%d/%d_%s.jpg</string>
+
+    <!-- Debug -->
+    <string name="error_not_supported_default">ERROR! Emmm.... not supported</string>
+</resources>
